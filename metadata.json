@@ -1,0 +1,5 @@
+{
+  "name": "AI Code Review Assistant",
+  "description": "An intelligent code review system that leverages the Gemini API to automatically analyze code commits from any public GitHub repository, providing insightful feedback and suggestions to improve code quality.",
+  "requestFramePermissions": []
+}
